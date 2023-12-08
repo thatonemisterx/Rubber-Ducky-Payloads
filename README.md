@@ -5,5 +5,4 @@ If there are issues with the injects, email me at the1misterxisalive@gmail.com
 
 ## WHAMegeddon
 Maxes out the volume on the victim's computer before going to a link where "Last Christmas" by Wham! plays.
-https://github.com/thatonemisterx/Rubber-Ducky-Payloads/assets/142122729/c44cb77f-1e39-423f-bd0c-4e9f4095bc1c
-
+<video src='https://github.com/thatonemisterx/Rubber-Ducky-Payloads/assets/142122729/c44cb77f-1e39-423f-bd0c-4e9f4095bc1c' width=400/>
